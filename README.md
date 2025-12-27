@@ -45,7 +45,7 @@ Raw movie metadata containing budget, revenue, genres, runtime, votes, and relea
 
 - Imputes missing budgets
 
-2 **Feature Engineering**
+2. **Feature Engineering**
 
 - One-hot encoding of genres
 
@@ -67,11 +67,11 @@ Raw movie metadata containing budget, revenue, genres, runtime, votes, and relea
 
 - Console output:
 
-Train and test R² scores
+       Train and test R² scores
 
 ## How to Run
 ```bash
-python main.py
+python PredictionGross.py
 ```
 
 ## Dependencies
