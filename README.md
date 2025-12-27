@@ -67,7 +67,7 @@ Raw movie metadata containing budget, revenue, genres, runtime, votes, and relea
 
 - Console output:
 
-       Train and test R² scores
+   Train and test R² scores
 
 ## How to Run
 ```bash
